@@ -1,9 +1,0 @@
-{
-  "type": "create:splashing",
-  "ingredient": "#c:glass_panes",
-  "results": [
-    {
-      "id": "minecraft:glass_pane"
-    }
-  ]
-}

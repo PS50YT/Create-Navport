@@ -1,6 +1,0 @@
-{
-  "model": {
-    "type": "create:model/normal",
-    "model": "create:block/item_hatch/block_closed"
-  }
-}

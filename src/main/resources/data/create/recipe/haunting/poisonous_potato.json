@@ -1,9 +1,0 @@
-{
-  "type": "create:haunting",
-  "ingredient": "minecraft:potato",
-  "results": [
-    {
-      "id": "minecraft:poisonous_potato"
-    }
-  ]
-}

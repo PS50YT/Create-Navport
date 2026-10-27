@@ -1,9 +1,0 @@
-{
-  "type": "create:splashing",
-  "ingredient": "#c:flours/wheat",
-  "results": [
-    {
-      "id": "create:dough"
-    }
-  ]
-}

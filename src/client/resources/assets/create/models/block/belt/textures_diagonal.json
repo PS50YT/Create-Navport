@@ -1,6 +1,0 @@
-{
-	"textures": {
-		"belt_diagonal": "create:block/belt_diagonal",
-		"particle": "#belt_diagonal"
-	}
-}

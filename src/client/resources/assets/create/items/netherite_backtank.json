@@ -1,6 +1,0 @@
-{
-  "model": {
-    "type": "create:model/normal",
-    "model": "create:block/netherite_backtank/item"
-  }
-}

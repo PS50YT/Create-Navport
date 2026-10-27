@@ -1,9 +1,0 @@
-{
-  "results": [
-    {
-      "id": "minecraft:white_concrete"
-    }
-  ],
-  "ingredient": "minecraft:white_concrete_powder",
-  "type": "create:splashing"
-}

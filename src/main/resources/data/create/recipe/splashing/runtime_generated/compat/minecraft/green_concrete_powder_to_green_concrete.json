@@ -1,9 +1,0 @@
-{
-  "results": [
-    {
-      "id": "minecraft:green_concrete"
-    }
-  ],
-  "ingredient": "minecraft:green_concrete_powder",
-  "type": "create:splashing"
-}

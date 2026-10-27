@@ -1,8 +1,0 @@
-{
-	"parent": "create:block/copper_backtank/textures",
-	"loader": "neoforge:obj",
-	"flip_v": true,
-	"automatic_culling": false,
-	"emissive_ambient":false,
-	"model": "create:models/block/copper_backtank/block_shaft_input.obj"
-}

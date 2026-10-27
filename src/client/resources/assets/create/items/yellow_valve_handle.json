@@ -1,6 +1,0 @@
-{
-  "model": {
-    "type": "create:model/normal",
-    "model": "create:block/yellow_valve_handle"
-  }
-}

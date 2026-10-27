@@ -1,9 +1,0 @@
-{
-  "type": "create:haunting",
-  "ingredient": "#c:cobblestones",
-  "results": [
-    {
-      "id": "minecraft:blackstone"
-    }
-  ]
-}

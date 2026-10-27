@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/water_bucket_3d",
-  "textures": {
-    "1": "create:item/chocolate_still"
-  }
-}

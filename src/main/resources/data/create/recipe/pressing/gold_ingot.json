@@ -1,9 +1,0 @@
-{
-  "type": "create:pressing",
-  "ingredient": "#c:ingots/gold",
-  "results": [
-    {
-      "id": "create:golden_sheet"
-    }
-  ]
-}

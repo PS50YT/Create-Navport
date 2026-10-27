@@ -1,9 +1,0 @@
-{
-  "type": "create:pressing",
-  "ingredient": "minecraft:rooted_dirt",
-  "results": [
-    {
-      "id": "minecraft:dirt_path"
-    }
-  ]
-}

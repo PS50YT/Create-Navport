@@ -1,8 +1,0 @@
-{
-	"parent": "create:block/belt_casing/textures",
-	"loader": "neoforge:obj",
-	"flip_v": true,
-	"automatic_culling": false,
-	"emissive_ambient":false,
-	"model": "create:models/block/belt_casing/sideways_start.obj"
-}

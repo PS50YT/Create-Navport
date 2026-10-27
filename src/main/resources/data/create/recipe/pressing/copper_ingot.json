@@ -1,9 +1,0 @@
-{
-  "type": "create:pressing",
-  "ingredient": "#c:ingots/copper",
-  "results": [
-    {
-      "id": "create:copper_sheet"
-    }
-  ]
-}
